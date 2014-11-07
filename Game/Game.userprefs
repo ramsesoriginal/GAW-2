@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameManager\GameController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameManager\Main\Scripts\GameController.cs">
     <Files>
-      <File FileName="Assets\GameManager\GameController.cs" Line="22" Column="4" />
-      <File FileName="Assets\GameManager\GameModel.cs" Line="7" Column="34" />
+      <File FileName="Assets\GameManager\Main\Scripts\GameController.cs" Line="7" Column="44" />
+      <File FileName="Assets\GameManager\Main\Scripts\GameModel.cs" Line="5" Column="25" />
+      <File FileName="Assets\GameManager\Main\Scripts\Loader.cs" Line="5" Column="25" />
+      <File FileName="Assets\GameManager\Main\Scripts\LocalLoader.cs" Line="4" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

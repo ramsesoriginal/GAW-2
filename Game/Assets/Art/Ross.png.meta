@@ -30,6 +30,13 @@ TextureImporter:
     21300050: Ross_24
     21300052: Ross_25
     21300054: Ross_26
+    21300056: Ross_27
+    21300058: Ross_28
+    21300060: Ross_29
+    21300062: Ross_30
+    21300064: Ross_31
+    21300066: Ross_32
+    21300068: Ross_33
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -65,7 +72,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 15
+  spritePixelsToUnits: 20
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
@@ -340,6 +347,76 @@ TextureImporter:
         height: 36
       alignment: 9
       pivot: {x: .75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 96
+        width: 5
+        height: 7
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 94
+        width: 9
+        height: 11
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 93
+        width: 23
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 46
+        height: 13
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 92
+        width: 98
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 72
+        width: 98
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 70
+        width: 99
+        height: 17
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: characters
   userData: 

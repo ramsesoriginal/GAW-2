@@ -98,8 +98,8 @@ TextureImporter:
         y: 217
         width: 18
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Ross_3
       rect:
@@ -118,8 +118,8 @@ TextureImporter:
         y: 217
         width: 18
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Ross_5
       rect:
@@ -138,8 +138,8 @@ TextureImporter:
         y: 217
         width: 18
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Ross_7
       rect:
@@ -198,8 +198,8 @@ TextureImporter:
         y: 165
         width: 18
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .75, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Ross_13
       rect:
@@ -214,12 +214,12 @@ TextureImporter:
     - name: Ross_14
       rect:
         serializedVersion: 2
-        x: 88
+        x: 89
         y: 165
         width: 18
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .75, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Ross_15
       rect:
@@ -238,8 +238,8 @@ TextureImporter:
         y: 165
         width: 18
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .75, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Ross_17
       rect:
@@ -328,8 +328,8 @@ TextureImporter:
         y: 217
         width: 18
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Ross_26
       rect:
@@ -338,8 +338,8 @@ TextureImporter:
         y: 165
         width: 18
         height: 36
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .75, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: characters
   userData: 

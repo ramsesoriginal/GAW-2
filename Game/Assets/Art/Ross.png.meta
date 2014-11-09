@@ -37,6 +37,19 @@ TextureImporter:
     21300064: Ross_31
     21300066: Ross_32
     21300068: Ross_33
+    21300070: Ross_34
+    21300072: Ross_35
+    21300074: Ross_36
+    21300076: Ross_37
+    21300078: Ross_38
+    21300080: Ross_39
+    21300082: Ross_40
+    21300084: Ross_41
+    21300086: Ross_42
+    21300088: Ross_43
+    21300090: Ross_44
+    21300092: Ross_45
+    21300094: Ross_46
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -351,9 +364,9 @@ TextureImporter:
     - name: Ross_27
       rect:
         serializedVersion: 2
-        x: 30
+        x: 29
         y: 96
-        width: 5
+        width: 6
         height: 7
       alignment: 4
       pivot: {x: 0, y: .5}
@@ -361,9 +374,9 @@ TextureImporter:
     - name: Ross_28
       rect:
         serializedVersion: 2
-        x: 47
+        x: 46
         y: 94
-        width: 9
+        width: 10
         height: 11
       alignment: 4
       pivot: {x: 0, y: .5}
@@ -371,9 +384,9 @@ TextureImporter:
     - name: Ross_29
       rect:
         serializedVersion: 2
-        x: 61
+        x: 59
         y: 93
-        width: 23
+        width: 25
         height: 12
       alignment: 4
       pivot: {x: 0, y: .5}
@@ -381,9 +394,9 @@ TextureImporter:
     - name: Ross_30
       rect:
         serializedVersion: 2
-        x: 93
+        x: 91
         y: 93
-        width: 46
+        width: 48
         height: 13
       alignment: 4
       pivot: {x: 0, y: .5}
@@ -391,9 +404,9 @@ TextureImporter:
     - name: Ross_31
       rect:
         serializedVersion: 2
-        x: 147
+        x: 145
         y: 92
-        width: 98
+        width: 100
         height: 15
       alignment: 4
       pivot: {x: 0, y: .5}
@@ -401,9 +414,9 @@ TextureImporter:
     - name: Ross_32
       rect:
         serializedVersion: 2
-        x: 46
+        x: 44
         y: 72
-        width: 98
+        width: 100
         height: 15
       alignment: 4
       pivot: {x: 0, y: .5}
@@ -411,10 +424,140 @@ TextureImporter:
     - name: Ross_33
       rect:
         serializedVersion: 2
-        x: 152
+        x: 151
         y: 70
-        width: 99
+        width: 100
         height: 17
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 138
+        width: 3
+        height: 5
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 133
+        width: 3
+        height: 5
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 138
+        width: 4
+        height: 5
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 132
+        width: 4
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 135
+        width: 7
+        height: 7
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_39
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 139
+        width: 4
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_40
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 136
+        width: 4
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 136
+        width: 3
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 141
+        width: 3
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 133
+        width: 3
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 138
+        width: 4
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 5
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ross_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 140
+        width: 5
+        height: 4
       alignment: 4
       pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}

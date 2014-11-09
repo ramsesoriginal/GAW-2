@@ -9,7 +9,6 @@ public class Locomotion : MonoBehaviour {
 	public bool Kneel;
 	public bool Jump;
 	public bool Grounded;
-	public bool Shoot;
 	private bool leftCollision;
 
 	private Animator ani;
@@ -47,12 +46,6 @@ public class Locomotion : MonoBehaviour {
 			return Animator.StringToHash("Jump");
 		}
 	}
-	
-	private int ShootId {
-		get {
-			return Animator.StringToHash("Shoot");
-		}
-	}
 
 	// Use this for initialization
 	void Start () {
@@ -71,7 +64,7 @@ public class Locomotion : MonoBehaviour {
 		Animation.SetBool (KneelId,Kneel);
 		Animation.SetBool (JumplId,!Grounded);
 		Animation.SetFloat (SpeedId,Speed);
-		Animation.SetBool (ShootId,Input.GetButton ("Fire"));
+		//Animation.SetBool (ShootId,Input.GetButton ("Fire"));
 	}
 
 	void FixedUpdate() {
